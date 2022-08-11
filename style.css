@@ -2,3 +2,28 @@
     margin: 0;
     padding: 0;
 }
+.nav{
+    display: flex;
+}
+.nav-link{
+    color: grey;
+}
+.btn{
+    background-color: rgb(24, 117, 24);
+    padding: 15px 60px;
+}
+.container{
+    font-family: sans-serif;
+}
+.container h3{
+    padding: 0px 5px;
+    font-size: 150%;
+}
+.container3{
+    font-family: sans-serif;
+    margin: 0px 30px;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
